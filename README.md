@@ -4,6 +4,7 @@
   Console chatbot using <strong>Microsoft.ML.OnnxRuntimeGenAI</strong> with Phi-3 Mini Instruct ONNX weights
   downloaded from Hugging Face at runtime.
 </p>
+<img width="1087" height="548" alt="image" src="https://github.com/user-attachments/assets/bb161b5e-c1fd-493e-9dc1-0b706b004fec" />
 
 <h2>Dependencies</h2>
 
