@@ -49,7 +49,7 @@ internal sealed class ChatHistory
             }
             else
             {
-                sb.Append("<|assistant|>\n");
+        sb.Append("<assistant>\n");
                 sb.Append(m.Text ?? "");
                 sb.Append("\n");
             }
