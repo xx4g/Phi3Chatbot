@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36804.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phi3Chatbot", "Phi3Chatbot.csproj", "{4F01C89C-57F7-041B-045F-0F8AECC1B084}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phi3Chatbot", "Phi3Chatbot.csproj", "{1A2B3C4D-5E6F-7081-92A3-4B5C6D7E8F90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F01C89C-57F7-041B-045F-0F8AECC1B084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F01C89C-57F7-041B-045F-0F8AECC1B084}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F01C89C-57F7-041B-045F-0F8AECC1B084}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F01C89C-57F7-041B-045F-0F8AECC1B084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2B3C4D-5E6F-7081-92A3-4B5C6D7E8F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2B3C4D-5E6F-7081-92A3-4B5C6D7E8F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2B3C4D-5E6F-7081-92A3-4B5C6D7E8F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2B3C4D-5E6F-7081-92A3-4B5C6D7E8F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F5A2324D-27ED-4B3E-9930-5767A326C23D}
+		SolutionGuid = {E5F062EF-654F-4D52-8B7E-55E8C26D1193}
 	EndGlobalSection
 EndGlobal

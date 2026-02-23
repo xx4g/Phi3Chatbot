@@ -11,7 +11,7 @@
 <h3>Required</h3>
 <ul>
   <li><strong>.NET SDK</strong>: <code>8.0</code> (targets <code>net8.0</code>)</li>
-  <li><strong>NuGet</strong>: <code>Microsoft.ML.OnnxRuntimeGenAI</code> (CPU) <code>0.6.0</code></li>
+  <li><strong>NuGet</strong>: <code>Microsoft.ML.OnnxRuntimeGenAI.DirectML</code> (CPU) <code>0.6.0</code></li>
 </ul>
 
 <h3>Built-in libraries (BCL)</h3>
